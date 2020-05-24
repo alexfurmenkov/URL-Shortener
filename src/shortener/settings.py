@@ -10,6 +10,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SECRET_KEY = '*yef)%+9z*usj)nfb471o98e3w8)f_i6n-p9va)v*v@+883v-('
 
+DOCKER = True
+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
@@ -67,18 +69,31 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'shortener.wsgi.application'
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'url_shortener',
-        'USER': 'root',
-        'PASSWORD': 'mysql',
-        'HOST': 'db',
-        'PORT': 3306
+if DOCKER:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'url_shortener',
+            'USER': 'root',
+            'PASSWORD': 'mysql',
+            'HOST': 'db',
+            'PORT': 3306
+        }
     }
-}
+    REDIS_HOST = 'redis'
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'url_shortener',
+            'USER': 'root',
+            'PASSWORD': 'mysql',
+            'HOST': 'localhost',
+            'PORT': 3306
+        }
+    }
+    REDIS_HOST = 'localhost'
 
-REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
 
 CELERY_BROKER_URL = 'redis://redis:6379'
