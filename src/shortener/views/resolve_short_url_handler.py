@@ -5,14 +5,12 @@ of the short one given in the request
 """
 from django.shortcuts import redirect
 from django.template.response import TemplateResponse
-# from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from drf_yasg.utils import swagger_auto_schema
 
 from shortener.models import UrlAddress
 from shortener.serializers import UrlAddressSerializer
-# from shortener.events import ResponseNotFound, ResponseSuccess
 
 
 class ResolveShortUrlHandler(APIView):
@@ -36,24 +34,10 @@ class ResolveShortUrlHandler(APIView):
         :return: Redirect to the original URL
         """
         existing_url = UrlAddress.get_object_by_short_url(short_url)
-        url_serializer = UrlAddressSerializer(existing_url)
-        redirect_url = url_serializer.data['original_url']
 
         if not existing_url:
             return TemplateResponse(request, 'error.html', status=404)
 
+        url_serializer = UrlAddressSerializer(existing_url)
+        redirect_url = url_serializer.data['original_url']
         return redirect(redirect_url)
-
-    # def get(cls, request, short_url) -> Response:
-    #     """
-    #     Returns original URL of the short one from request
-    #     :param short_url: Short URL
-    #     :param request: GET HTTP Request with short URL
-    #     :return: JSON Response with UrlAddress object details
-    #     """
-    #     existing_url = UrlAddress.get_object_by_short_url(short_url)
-    #
-    #     if not existing_url:
-    #         return ResponseNotFound('Such URL is not found.')
-    #
-    #     return ResponseSuccess(UrlAddressSerializer(existing_url).data)
