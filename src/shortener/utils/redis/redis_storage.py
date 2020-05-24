@@ -38,6 +38,18 @@ class RedisStorage(redis.StrictRedis):
         """
         return self.lpush(f'url_list_{session_key}', json.dumps(url))
 
+    def remove_url_from_list(self, url, session_key):
+        """
+        Removes URL from url list
+        :param url: URL to remove from list
+        :param session_key: Session key
+        """
+        return self.lrem(
+            name=f'url_list_{session_key}',
+            count=0,
+            value=json.dumps(url)
+        )
+
     def get_url_list(self, session_key):
         """
         Returns list of all URLs of a current session key
