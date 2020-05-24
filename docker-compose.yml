@@ -1,0 +1,52 @@
+version: '3.0'
+
+services:
+  db:
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./db:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 'mysql'
+      MYSQL_DATABASE: 'url_shortener'
+      MYSQL_USER: 'root'
+      MYSQL_PASSWORD: 'mysql'
+    expose:
+      - "3306"
+    networks: ['shortener_network']
+
+  web:
+    build: .
+    restart: always
+    command: python /code/manage.py runserver 0.0.0.0:8000
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+    networks: ['shortener_network']
+
+  redis:
+    image: "redis:alpine"
+    expose:
+      - "6379"
+    networks: ['shortener_network']
+
+  celery:
+    build: .
+    command: bash -c 'cd code/shortener; celery -A shortener worker -l info'
+    depends_on:
+      - db
+      - redis
+    networks: ['shortener_network']
+
+  celery-beat:
+    build: .
+    command: bash -c 'cd code/shortener; celery -A shortener beat -l info'
+    depends_on:
+      - db
+      - redis
+    networks: ['shortener_network']
+
+networks: {shortener_network: {}}

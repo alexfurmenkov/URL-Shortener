@@ -1,0 +1,9 @@
+django
+djangorestframework
+drf-yasg
+django-cors-headers
+mysqlclient
+django-mysql
+redis
+celery
+flake8

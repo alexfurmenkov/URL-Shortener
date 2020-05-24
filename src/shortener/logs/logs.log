@@ -1,0 +1,826 @@
+INFO 2020-05-24 01:54:27,956 "GET / HTTP/1.1" 200 5079
+ERROR 2020-05-24 01:54:28,095 Objects of class UrlAddress with user session "voi8w6quxsvf9xar43ggi2pb4zmnox4n" are not found
+WARNING 2020-05-24 01:54:28,097 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 01:54:51,468 Object of class UrlAddress with short url "logging" is not found
+INFO 2020-05-24 01:54:51,472 New UrlAddress object UrlAddress object (6) is created
+INFO 2020-05-24 01:54:51,473 "POST /api/short/ HTTP/1.1" 201 125
+INFO 2020-05-24 01:54:53,318 "GET / HTTP/1.1" 200 5079
+INFO 2020-05-24 01:54:53,448 "GET /api/short/ HTTP/1.1" 200 127
+ERROR 2020-05-24 02:09:24,514 Objects of class UrlAddress with user session "vs4x3fkdkulex2hhxo1x8wqji6eim8w4" are not found
+WARNING 2020-05-24 02:09:24,522 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:09:57,874 Objects of class UrlAddress with user session "56tn0w27t108lc0x4cpos1zokks9z9fr" are not found
+WARNING 2020-05-24 02:09:57,880 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:12:03,820 Objects of class UrlAddress with user session "069l33hmdi1rvapcaaqwy6icrqq5eckv" are not found
+WARNING 2020-05-24 02:12:03,825 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:12:06,662 Objects of class UrlAddress with user session "bispwnnmmu7jrvpbggzycc7xzg9ozf4y" are not found
+WARNING 2020-05-24 02:12:06,671 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 02:12:20,304 "OPTIONS /api/short/ HTTP/1.1" 200 0
+INFO 2020-05-24 02:12:20,322 New UrlAddress object UrlAddress object (7) is created
+INFO 2020-05-24 02:12:20,328 "POST /api/short/ HTTP/1.1" 201 131
+ERROR 2020-05-24 02:12:22,361 Objects of class UrlAddress with user session "ual3flfxbuz7brk1pom5nwfmxf5hhq76" are not found
+WARNING 2020-05-24 02:12:22,369 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:12:40,419 Objects of class UrlAddress with user session "ju5wt24l2qpffnr2k3zj61hksg5un6ab" are not found
+WARNING 2020-05-24 02:12:40,429 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:12:42,177 Objects of class UrlAddress with user session "9ahkzbqf4hf81deh0sdzleebpu3u67w1" are not found
+WARNING 2020-05-24 02:12:42,183 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:13:08,901 Objects of class UrlAddress with user session "1i6ivlr2wksd1htzvz8vens8lczdzt3m" are not found
+ERROR 2020-05-24 02:13:08,906 Objects of class UrlAddress with user session "cqc2ymfef19mhda2rvt7izjcgjixfiyj" are not found
+WARNING 2020-05-24 02:13:08,910 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 02:13:08,916 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:13:12,771 Objects of class UrlAddress with user session "v8d1idqfxpzzne5dhwjdvm1e9logk4go" are not found
+ERROR 2020-05-24 02:13:12,775 Objects of class UrlAddress with user session "1rk8k8pep4bihlqgjpe1em6x08juc7jr" are not found
+WARNING 2020-05-24 02:13:12,776 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 02:13:12,785 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:13:24,432 Objects of class UrlAddress with user session "kzxpdlwe5jd9xu2lvzdk9c1kohfqe576" are not found
+ERROR 2020-05-24 02:13:24,436 Objects of class UrlAddress with user session "73z9jyavj86xrrhq5hpxsktj11felyjs" are not found
+WARNING 2020-05-24 02:13:24,440 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 02:13:24,443 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:13:32,170 Objects of class UrlAddress with user session "2joicij81suqrwykwfcxb61rse69myy3" are not found
+ERROR 2020-05-24 02:13:32,173 Objects of class UrlAddress with user session "33373elag60ypazoxgyycszlahvug32o" are not found
+WARNING 2020-05-24 02:13:32,184 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 02:13:32,191 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 02:13:34,653 Objects of class UrlAddress with user session "wcz87xn8xoqkcsrq8cejcm20q3tkkqps" are not found
+ERROR 2020-05-24 02:13:34,657 Objects of class UrlAddress with user session "nc577yc0m0uuwn3sgp4hnkutgpwcghbl" are not found
+WARNING 2020-05-24 02:13:34,660 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 02:13:34,664 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 11:31:29,327 "GET / HTTP/1.1" 200 5079
+INFO 2020-05-24 11:31:29,609 "GET /api/short/ HTTP/1.1" 200 127
+WARNING 2020-05-24 11:31:29,622 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 11:31:34,821 New UrlAddress object UrlAddress object (8) is created
+INFO 2020-05-24 11:31:34,822 "POST /api/short/ HTTP/1.1" 201 158
+INFO 2020-05-24 11:31:36,975 "GET / HTTP/1.1" 200 5079
+WARNING 2020-05-24 11:31:37,229 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 11:31:37,235 "GET /api/short/ HTTP/1.1" 200 255
+INFO 2020-05-24 11:35:48,745 "GET / HTTP/1.1" 200 5079
+INFO 2020-05-24 11:35:48,979 "GET /api/short/ HTTP/1.1" 200 255
+INFO 2020-05-24 11:35:50,677 New UrlAddress object UrlAddress object (9) is created
+INFO 2020-05-24 11:35:50,680 "POST /api/short/ HTTP/1.1" 201 203
+ERROR 2020-05-24 11:58:07,364 Objects of class UrlAddress with user session "tojd73tkk6funkynpyoy4dxaad04uz2w" are not found
+WARNING 2020-05-24 11:58:07,375 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 11:58:21,850 Objects of class UrlAddress with user session "6xjvqa4iqhlw8pn9wfndpoo0o48ukhmo" are not found
+WARNING 2020-05-24 11:58:21,860 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 11:58:37,194 Objects of class UrlAddress with user session "syy0bxh8jlhhnk3r5lzro1gaktfsjyah" are not found
+WARNING 2020-05-24 11:58:37,200 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:09:21,335 Objects of class UrlAddress with user session "5xvk1mbr9u9ygyiwljjtae8r50dde38u" are not found
+WARNING 2020-05-24 12:09:21,342 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:09:24,349 Objects of class UrlAddress with user session "b25dc8yechisiykw833z13pw06qzacna" are not found
+WARNING 2020-05-24 12:09:24,356 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:10:06,722 Objects of class UrlAddress with user session "pitzvjg3f89ospnypgpvt8mz13dcofb3" are not found
+WARNING 2020-05-24 12:10:06,732 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:10:10,883 Objects of class UrlAddress with user session "ojv5zv36kbg1ek8gu5qpbmzk90u22at2" are not found
+WARNING 2020-05-24 12:10:10,889 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:10:27,902 Objects of class UrlAddress with user session "ob6sg43iycgtm81ghbcwfinh5a00axjz" are not found
+WARNING 2020-05-24 12:10:27,908 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:10:40,069 Objects of class UrlAddress with user session "9e2wupnm6osw15f5r0hbes3m1a0o9zev" are not found
+WARNING 2020-05-24 12:10:40,082 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:10:41,260 Objects of class UrlAddress with user session "9le3jzidxlmgccx4pwvk0kkur3iglgg3" are not found
+WARNING 2020-05-24 12:10:41,267 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:14:14,523 Objects of class UrlAddress with user session "3wvu1odjuaotwy962ssioj7ujr3h6ztn" are not found
+WARNING 2020-05-24 12:14:14,532 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:14:56,347 Objects of class UrlAddress with user session "ow9k9z0k6qds4oyk4mnnoqcjg8xhlrlp" are not found
+WARNING 2020-05-24 12:14:56,362 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 12:15:05,467 "GET / HTTP/1.1" 200 5079
+ERROR 2020-05-24 12:15:05,565 Objects of class UrlAddress with user session "j6zvk4mjxgo2lzlgvjn5gjsic4a154jm" are not found
+WARNING 2020-05-24 12:15:05,567 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 12:15:14,962 "GET / HTTP/1.1" 200 5079
+ERROR 2020-05-24 12:15:14,999 Objects of class UrlAddress with user session "1tgaio8473ios316o25a84g5t1ekl8z7" are not found
+WARNING 2020-05-24 12:15:15,000 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:15:18,771 Objects of class UrlAddress with user session "4jew359m8thine5jhxr6qse6xv0s8f7v" are not found
+WARNING 2020-05-24 12:15:18,782 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:15:23,262 Objects of class UrlAddress with user session "q45x7hnqpad9wtlmc4jrdhfqq457f2pj" are not found
+WARNING 2020-05-24 12:15:23,270 "GET /api/short/ HTTP/1.1" 404 54
+ERROR 2020-05-24 12:15:27,777 Objects of class UrlAddress with user session "38w1vi4r6lyfeuszh9m3h72ajl0464he" are not found
+WARNING 2020-05-24 12:15:27,786 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 13:54:30,297 "GET / HTTP/1.1" 200 5080
+ERROR 2020-05-24 13:54:30,602 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 13:54:30,605 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 13:54:30,605 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 13:54:37,020 New UrlAddress object UrlAddress object (10) is created
+INFO 2020-05-24 13:54:37,022 "POST /api/short/ HTTP/1.1" 201 423
+INFO 2020-05-24 13:54:38,047 "GET / HTTP/1.1" 200 5080
+INFO 2020-05-24 13:54:38,155 "GET /api/short/ HTTP/1.1" 200 425
+INFO 2020-05-24 13:54:46,962 New UrlAddress object UrlAddress object (11) is created
+INFO 2020-05-24 13:54:46,963 "POST /api/short/ HTTP/1.1" 201 423
+INFO 2020-05-24 13:54:47,931 "GET / HTTP/1.1" 200 5080
+INFO 2020-05-24 13:54:48,075 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 13:55:44,861 "GET / HTTP/1.1" 200 5049
+INFO 2020-05-24 13:55:44,982 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 16:37:16,778 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:37:18,872 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:37:18,889 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 16:37:23,999 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:37:24,219 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:37:24,229 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 16:37:44,345 New UrlAddress object UrlAddress object (12) is created
+INFO 2020-05-24 16:37:44,346 "POST /api/short/ HTTP/1.1" 201 96
+INFO 2020-05-24 16:37:45,606 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:37:45,729 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:37:45,731 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 16:38:04,521 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 16:38:04,684 Objects of class UrlAddress with user session "9bmafavb7zamo57ns5ikuryz07z3552n" are not found
+WARNING 2020-05-24 16:38:04,686 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 16:38:07,343 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:38:07,373 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 16:38:09,579 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:38:09,601 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 16:42:47,378 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 16:42:47,540 "GET /api/short/ HTTP/1.1" 200 818
+INFO 2020-05-24 16:42:51,072 New UrlAddress object UrlAddress object (13) is created
+ERROR 2020-05-24 16:42:51,109 "POST /api/short/ HTTP/1.1" 500 22631
+INFO 2020-05-24 16:43:48,384 New UrlAddress object UrlAddress object (14) is created
+ERROR 2020-05-24 16:43:48,459 "POST /api/short/ HTTP/1.1" 500 22631
+INFO 2020-05-24 16:44:14,833 New UrlAddress object UrlAddress object (15) is created
+ERROR 2020-05-24 16:44:14,904 "POST /api/short/ HTTP/1.1" 500 22631
+INFO 2020-05-24 16:44:47,010 New UrlAddress object UrlAddress object (16) is created
+ERROR 2020-05-24 16:44:47,094 "POST /api/short/ HTTP/1.1" 500 22631
+INFO 2020-05-24 16:48:53,027 New UrlAddress object UrlAddress object (17) is created
+ERROR 2020-05-24 16:48:53,105 "POST /api/short/ HTTP/1.1" 500 22819
+INFO 2020-05-24 16:49:35,868 New UrlAddress object UrlAddress object (18) is created
+ERROR 2020-05-24 16:49:35,953 "POST /api/short/ HTTP/1.1" 500 22819
+INFO 2020-05-24 16:50:03,159 New UrlAddress object UrlAddress object (19) is created
+ERROR 2020-05-24 16:50:03,207 "POST /api/short/ HTTP/1.1" 500 22835
+INFO 2020-05-24 16:50:37,621 New UrlAddress object UrlAddress object (20) is created
+ERROR 2020-05-24 16:50:37,789 "POST /api/short/ HTTP/1.1" 500 22819
+INFO 2020-05-24 16:51:32,147 New UrlAddress object UrlAddress object (21) is created
+ERROR 2020-05-24 16:51:32,184 "POST /api/short/ HTTP/1.1" 500 21974
+INFO 2020-05-24 16:51:59,073 New UrlAddress object UrlAddress object (22) is created
+INFO 2020-05-24 16:51:59,079 "POST /api/short/ HTTP/1.1" 201 114
+INFO 2020-05-24 16:53:06,200 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 16:53:06,448 "GET /api/short/ HTTP/1.1" 200 3031
+WARNING 2020-05-24 16:53:06,453 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:53:15,813 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:53:15,905 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:53:15,911 "GET /api/short/ HTTP/1.1" 200 3031
+ERROR 2020-05-24 16:53:30,805 Object of class UrlAddress with short url "stack" is not found
+INFO 2020-05-24 16:53:30,815 New UrlAddress object UrlAddress object (23) is created
+INFO 2020-05-24 16:53:30,823 "POST /api/short/ HTTP/1.1" 201 147
+INFO 2020-05-24 16:53:32,918 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 16:53:33,089 "GET /api/short/ HTTP/1.1" 200 3031
+INFO 2020-05-24 16:53:43,661 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:53:43,784 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 16:53:43,786 "GET /api/short/ HTTP/1.1" 200 3031
+INFO 2020-05-24 16:55:10,232 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 16:55:10,405 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 16:55:10,408 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 16:55:10,417 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 16:55:39,968 Object of class UrlAddress with short url "redis" is not found
+INFO 2020-05-24 16:55:39,982 New UrlAddress object UrlAddress object (24) is created
+INFO 2020-05-24 16:55:39,998 "POST /api/short/ HTTP/1.1" 201 111
+INFO 2020-05-24 16:55:50,463 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 16:55:50,532 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 16:56:52,676 New UrlAddress object UrlAddress object (25) is created
+INFO 2020-05-24 16:56:52,680 "POST /api/short/ HTTP/1.1" 201 114
+INFO 2020-05-24 16:57:01,754 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 16:57:01,977 "GET /api/short/ HTTP/1.1" 200 197
+ERROR 2020-05-24 16:57:23,944 Object of class UrlAddress with short url "stack" is not found
+INFO 2020-05-24 16:57:23,951 New UrlAddress object UrlAddress object (26) is created
+INFO 2020-05-24 16:57:23,952 "POST /api/short/ HTTP/1.1" 201 147
+INFO 2020-05-24 16:57:24,929 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 16:57:25,126 "GET /api/short/ HTTP/1.1" 200 197
+ERROR 2020-05-24 17:00:46,206 Object of class UrlAddress with short url "lpush" is not found
+INFO 2020-05-24 17:00:46,218 New UrlAddress object UrlAddress object (27) is created
+ERROR 2020-05-24 17:00:46,385 "POST /api/short/ HTTP/1.1" 500 21990
+ERROR 2020-05-24 17:02:09,096 Object of class UrlAddress with short URL "None" already exists
+WARNING 2020-05-24 17:02:09,098 "POST /api/short/ HTTP/1.1" 409 59
+ERROR 2020-05-24 17:02:16,472 Object of class UrlAddress with short url "lpush_1" is not found
+INFO 2020-05-24 17:02:16,485 New UrlAddress object UrlAddress object (28) is created
+ERROR 2020-05-24 17:02:16,621 "POST /api/short/ HTTP/1.1" 500 22874
+ERROR 2020-05-24 17:03:34,729 Object of class UrlAddress with short URL "None" already exists
+WARNING 2020-05-24 17:03:34,732 "POST /api/short/ HTTP/1.1" 409 59
+ERROR 2020-05-24 17:03:40,068 Object of class UrlAddress with short url "stack_1" is not found
+INFO 2020-05-24 17:03:40,075 New UrlAddress object UrlAddress object (29) is created
+ERROR 2020-05-24 17:03:40,204 "POST /api/short/ HTTP/1.1" 500 22703
+INFO 2020-05-24 17:08:34,582 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:08:34,728 "GET /api/short/ HTTP/1.1" 200 592
+INFO 2020-05-24 17:08:37,383 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:08:37,485 "GET /api/short/ HTTP/1.1" 200 592
+WARNING 2020-05-24 17:08:37,489 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 17:09:07,929 Object of class UrlAddress with short url "delete" is not found
+INFO 2020-05-24 17:09:07,936 New UrlAddress object UrlAddress object (30) is created
+INFO 2020-05-24 17:09:07,940 "POST /api/short/ HTTP/1.1" 201 133
+INFO 2020-05-24 17:09:09,654 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:09:09,765 "GET /api/short/ HTTP/1.1" 200 695
+INFO 2020-05-24 17:09:11,228 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 17:09:11,342 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 17:09:11,349 "GET /api/short/ HTTP/1.1" 200 695
+INFO 2020-05-24 17:23:28,893 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:23:30,021 "GET /api/short/ HTTP/1.1" 200 695
+WARNING 2020-05-24 17:23:30,027 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 17:23:32,623 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 17:23:32,747 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 17:23:32,751 "GET /api/short/ HTTP/1.1" 200 695
+INFO 2020-05-24 17:24:00,152 New UrlAddress object UrlAddress object (31) is created
+INFO 2020-05-24 17:24:00,156 "POST /api/short/ HTTP/1.1" 201 118
+INFO 2020-05-24 17:24:01,243 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:24:01,350 "GET /api/short/ HTTP/1.1" 200 783
+ERROR 2020-05-24 17:24:15,350 Object of class UrlAddress with short url "test" is not found
+INFO 2020-05-24 17:24:15,358 New UrlAddress object UrlAddress object (32) is created
+INFO 2020-05-24 17:24:15,363 "POST /api/short/ HTTP/1.1" 201 100
+INFO 2020-05-24 17:24:16,173 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:24:16,292 "GET /api/short/ HTTP/1.1" 200 853
+INFO 2020-05-24 17:47:50,726 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:47:52,091 "GET /api/short/ HTTP/1.1" 200 853
+WARNING 2020-05-24 17:47:52,098 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 17:47:55,382 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:47:55,445 "GET /api/short/ HTTP/1.1" 200 853
+WARNING 2020-05-24 17:47:55,466 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 17:48:07,342 New UrlAddress object UrlAddress object (33) is created
+INFO 2020-05-24 17:48:07,345 "POST /api/short/ HTTP/1.1" 201 112
+INFO 2020-05-24 17:48:09,429 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:48:09,490 "GET /api/short/ HTTP/1.1" 200 935
+INFO 2020-05-24 17:48:15,268 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 17:48:15,368 "GET /api/short/ HTTP/1.1" 200 935
+INFO 2020-05-24 18:43:12,872 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 18:43:14,802 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 18:43:14,839 "GET /api/short/ HTTP/1.1" 500 22506
+INFO 2020-05-24 18:43:16,552 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 18:43:16,743 "GET /api/short/ HTTP/1.1" 500 22506
+INFO 2020-05-24 18:43:44,503 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 18:43:44,620 "GET /api/short/ HTTP/1.1" 500 22498
+INFO 2020-05-24 18:45:30,849 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:45:30,924 "GET /api/short/ HTTP/1.1" 200 935
+INFO 2020-05-24 18:50:04,667 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:50:04,944 "GET /api/short/ HTTP/1.1" 200 935
+INFO 2020-05-24 18:50:17,936 New UrlAddress object UrlAddress object (34) is created
+ERROR 2020-05-24 18:50:18,016 "POST /api/short/ HTTP/1.1" 500 22821
+INFO 2020-05-24 18:50:44,943 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 18:50:45,423 "GET /api/short/ HTTP/1.1" 500 22311
+INFO 2020-05-24 18:51:34,877 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 18:51:35,105 "GET /api/short/ HTTP/1.1" 500 22311
+INFO 2020-05-24 18:53:53,771 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 18:53:54,142 "GET /api/short/ HTTP/1.1" 500 21669
+INFO 2020-05-24 18:54:37,399 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:54:37,521 "GET /api/short/ HTTP/1.1" 200 62
+INFO 2020-05-24 18:57:55,712 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 18:57:55,974 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 18:58:02,730 New UrlAddress object UrlAddress object (35) is created
+INFO 2020-05-24 18:58:02,733 "POST /api/short/ HTTP/1.1" 201 105
+INFO 2020-05-24 18:58:04,083 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:58:04,171 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 18:58:59,144 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:58:59,358 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 18:59:55,602 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 18:59:55,719 "GET /api/short/ HTTP/1.1" 200 35
+WARNING 2020-05-24 18:59:55,726 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:00:49,620 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:00:49,897 "GET /api/short/ HTTP/1.1" 200 35
+WARNING 2020-05-24 19:00:49,904 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:01:22,964 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:01:24,315 "GET /api/short/ HTTP/1.1" 200 35
+WARNING 2020-05-24 19:01:24,321 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:02:45,354 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:02:45,600 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:03:04,841 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:03:05,032 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:03:32,697 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:03:32,930 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:04:52,137 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:04:52,404 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:05:08,377 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:05:08,502 "GET /api/short/ HTTP/1.1" 500 21549
+INFO 2020-05-24 19:05:49,875 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:05:50,143 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:06:12,152 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:06:12,308 "GET /api/short/ HTTP/1.1" 500 21814
+INFO 2020-05-24 19:06:25,960 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:06:26,292 "GET /api/short/ HTTP/1.1" 500 22087
+INFO 2020-05-24 19:07:08,740 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:07:08,886 "GET /api/short/ HTTP/1.1" 500 21814
+INFO 2020-05-24 19:07:33,903 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:07:34,216 "GET /api/short/ HTTP/1.1" 200 35
+INFO 2020-05-24 19:08:11,349 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:08:11,607 "GET /api/short/ HTTP/1.1" 200 107
+ERROR 2020-05-24 19:08:24,823 Object of class UrlAddress with short url "tip" is not found
+INFO 2020-05-24 19:08:24,830 New UrlAddress object UrlAddress object (36) is created
+INFO 2020-05-24 19:08:24,833 "POST /api/short/ HTTP/1.1" 201 113
+INFO 2020-05-24 19:08:25,948 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:08:26,075 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:15:05,591 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:15:07,043 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 19:15:07,050 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:15:46,134 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:15:46,415 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 19:16:18,187 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:16:18,327 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 19:16:34,042 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:16:34,247 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 19:17:02,669 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:17:02,801 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 19:17:18,538 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 19:17:18,775 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 19:17:38,163 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:17:38,428 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:17:41,263 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:17:41,473 "GET /api/short/ HTTP/1.1" 200 190
+WARNING 2020-05-24 19:17:41,480 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:18:12,249 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:18:12,448 "GET /api/short/ HTTP/1.1" 200 190
+WARNING 2020-05-24 19:18:12,454 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:18:46,687 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:18:46,856 "GET /api/short/ HTTP/1.1" 500 22094
+INFO 2020-05-24 19:19:27,841 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:19:28,044 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:19:49,813 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:19:49,939 "GET /api/short/ HTTP/1.1" 500 21822
+INFO 2020-05-24 19:20:09,950 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:20:10,230 "GET /api/short/ HTTP/1.1" 500 22093
+INFO 2020-05-24 19:21:20,391 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:21:20,612 "GET /api/short/ HTTP/1.1" 500 21623
+INFO 2020-05-24 19:24:25,548 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:24:25,662 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:26:33,385 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:26:33,643 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:26:42,556 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:26:42,664 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:27:51,556 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:27:51,747 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:29:52,871 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:29:53,058 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:37:18,509 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:37:18,724 "GET /api/short/ HTTP/1.1" 200 190
+INFO 2020-05-24 19:37:21,248 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:37:21,556 "GET /api/short/ HTTP/1.1" 200 190
+ERROR 2020-05-24 19:37:30,375 Object of class UrlAddress with short url "stackkk" is not found
+INFO 2020-05-24 19:37:30,394 New UrlAddress object UrlAddress object (37) is created
+INFO 2020-05-24 19:37:30,403 "POST /api/short/ HTTP/1.1" 201 182
+INFO 2020-05-24 19:37:31,328 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:37:31,438 "GET /api/short/ HTTP/1.1" 200 342
+INFO 2020-05-24 19:41:35,660 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:41:35,922 "GET /api/short/ HTTP/1.1" 200 342
+INFO 2020-05-24 19:41:37,830 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:41:38,060 "GET /api/short/ HTTP/1.1" 200 342
+INFO 2020-05-24 19:42:33,497 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:42:33,685 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 19:42:33,686 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 19:42:33,692 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 19:56:24,701 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 19:56:24,918 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 19:56:24,920 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 19:56:24,929 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 19:56:34,159 Object of class UrlAddress with short url "stack" is not found
+INFO 2020-05-24 19:56:34,165 New UrlAddress object UrlAddress object (38) is created
+INFO 2020-05-24 19:56:34,169 "POST /api/short/ HTTP/1.1" 201 180
+INFO 2020-05-24 19:56:35,307 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:56:35,502 "GET /api/short/ HTTP/1.1" 200 182
+INFO 2020-05-24 19:56:39,102 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 19:56:39,413 "GET /api/short/ HTTP/1.1" 200 182
+INFO 2020-05-24 20:16:54,371 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:16:54,755 "GET /api/short/ HTTP/1.1" 200 182
+WARNING 2020-05-24 20:16:54,769 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 20:17:09,879 Object of class UrlAddress with short url "aio" is not found
+INFO 2020-05-24 20:17:09,891 New UrlAddress object UrlAddress object (39) is created
+INFO 2020-05-24 20:17:09,899 "POST /api/short/ HTTP/1.1" 201 113
+INFO 2020-05-24 20:17:10,772 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:17:10,868 "GET /api/short/ HTTP/1.1" 200 265
+INFO 2020-05-24 20:17:12,839 "GET / HTTP/1.1" 200 5037
+WARNING 2020-05-24 20:17:12,934 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 20:17:12,937 "GET /api/short/ HTTP/1.1" 200 265
+INFO 2020-05-24 20:17:31,254 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:17:32,846 "GET /api/short/ HTTP/1.1" 200 265
+WARNING 2020-05-24 20:17:32,853 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 20:17:33,457 "GET /docs/ HTTP/1.1" 200 2142
+WARNING 2020-05-24 20:17:33,506 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2613
+WARNING 2020-05-24 20:17:33,510 "GET /docs/drf-yasg/style.css HTTP/1.1" 404 2532
+WARNING 2020-05-24 20:17:33,510 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2595
+WARNING 2020-05-24 20:17:33,519 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:17:33,536 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:17:33,536 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:17:33,544 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:17:33,554 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:17:33,554 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:17:33,569 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:17:33,582 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:17:33,593 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:17:33,605 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:17:33,637 "GET /docs/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2604
+WARNING 2020-05-24 20:17:36,348 "GET /accounts/login/?next=/docs/ HTTP/1.1" 404 2520
+INFO 2020-05-24 20:17:40,356 "GET /docs/ HTTP/1.1" 200 2142
+WARNING 2020-05-24 20:17:40,511 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:17:40,513 "GET /docs/drf-yasg/style.css HTTP/1.1" 404 2532
+WARNING 2020-05-24 20:17:40,514 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2613
+WARNING 2020-05-24 20:17:40,523 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2595
+WARNING 2020-05-24 20:17:40,523 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:17:40,525 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:17:40,532 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:17:40,534 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:17:40,563 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:17:40,575 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:17:40,589 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:17:40,605 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:17:40,619 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:17:40,654 "GET /docs/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2604
+INFO 2020-05-24 20:18:21,134 "GET /docs/ HTTP/1.1" 200 2142
+WARNING 2020-05-24 20:18:21,198 "GET /docs/drf-yasg/style.css HTTP/1.1" 404 2532
+WARNING 2020-05-24 20:18:21,209 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2595
+WARNING 2020-05-24 20:18:21,218 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2613
+WARNING 2020-05-24 20:18:21,227 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:18:21,240 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:18:21,240 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:18:21,260 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:18:21,260 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:18:21,297 "GET /docs/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2604
+WARNING 2020-05-24 20:18:22,811 "GET /accounts/login/?next=/docs/ HTTP/1.1" 404 2520
+WARNING 2020-05-24 20:18:22,915 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 20:18:39,488 Object of class UrlAddress with short url "docs" is not found
+WARNING 2020-05-24 20:18:39,516 "GET /docs/ HTTP/1.1" 404 207
+WARNING 2020-05-24 20:18:39,743 "GET /favicon.ico HTTP/1.1" 404 2499
+INFO 2020-05-24 20:18:41,613 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:18:41,781 "GET /api/short/ HTTP/1.1" 200 265
+INFO 2020-05-24 20:18:45,703 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 20:18:45,764 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 20:18:45,765 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 20:18:45,766 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 20:18:45,784 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 20:18:45,788 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 20:18:45,789 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 20:18:45,799 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 20:18:45,801 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 20:18:45,817 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 20:18:45,829 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 20:18:45,841 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 20:18:45,853 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 20:18:45,905 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+INFO 2020-05-24 20:19:01,647 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 20:19:01,716 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2395
+WARNING 2020-05-24 20:19:01,717 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2458
+WARNING 2020-05-24 20:19:01,732 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2509
+WARNING 2020-05-24 20:19:01,732 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2476
+WARNING 2020-05-24 20:19:01,755 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2416
+WARNING 2020-05-24 20:19:01,755 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2401
+WARNING 2020-05-24 20:19:01,774 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2422
+WARNING 2020-05-24 20:19:01,776 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2425
+WARNING 2020-05-24 20:19:01,788 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2422
+WARNING 2020-05-24 20:19:01,824 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2467
+INFO 2020-05-24 20:19:55,313 "GET / HTTP/1.1" 200 5037
+ERROR 2020-05-24 20:19:55,490 Objects of class UrlAddress with user session "9bmafavb7zamo57ns5ikuryz07z3552n" are not found
+WARNING 2020-05-24 20:19:55,491 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 20:19:58,450 "GET /docs HTTP/1.1" 301 0
+INFO 2020-05-24 20:19:58,476 "GET /docs/ HTTP/1.1" 200 2142
+WARNING 2020-05-24 20:19:58,548 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2595
+WARNING 2020-05-24 20:19:58,549 "GET /docs/drf-yasg/style.css HTTP/1.1" 404 2532
+WARNING 2020-05-24 20:19:58,553 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:19:58,553 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:19:58,554 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2613
+WARNING 2020-05-24 20:19:58,556 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:19:58,571 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:19:58,571 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:20:01,137 "GET /accounts/login/?next=/docs/ HTTP/1.1" 404 2520
+ERROR 2020-05-24 20:21:00,819 Object of class UrlAddress with short url "swagger" is not found
+WARNING 2020-05-24 20:21:00,838 "GET /swagger/ HTTP/1.1" 404 207
+WARNING 2020-05-24 20:21:01,088 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 20:21:04,435 "GET /docs/ HTTP/1.1" 200 2142
+WARNING 2020-05-24 20:21:04,528 "GET /docs/drf-yasg/style.css HTTP/1.1" 404 2532
+WARNING 2020-05-24 20:21:04,528 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2613
+WARNING 2020-05-24 20:21:04,531 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2595
+WARNING 2020-05-24 20:21:04,555 "GET /docs/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2646
+WARNING 2020-05-24 20:21:04,555 "GET /docs/drf-yasg/insQ.min.js HTTP/1.1" 404 2538
+WARNING 2020-05-24 20:21:04,555 "GET /docs/drf-yasg/immutable.min.js HTTP/1.1" 404 2553
+WARNING 2020-05-24 20:21:04,572 "GET /docs/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2562
+WARNING 2020-05-24 20:21:04,573 "GET /docs/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2559
+WARNING 2020-05-24 20:21:04,639 "GET /docs/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2604
+INFO 2020-05-24 20:23:18,536 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:23:19,022 "GET /api/short/ HTTP/1.1" 200 265
+WARNING 2020-05-24 20:23:19,040 "GET /favicon.ico HTTP/1.1" 404 2365
+INFO 2020-05-24 20:23:36,870 New UrlAddress object UrlAddress object (40) is created
+INFO 2020-05-24 20:23:36,879 "POST /api/short/ HTTP/1.1" 201 118
+INFO 2020-05-24 20:23:38,435 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 20:23:38,526 "GET /api/short/ HTTP/1.1" 200 353
+INFO 2020-05-24 21:32:28,058 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:32:28,263 "GET /api/short/ HTTP/1.1" 200 353
+WARNING 2020-05-24 21:32:28,271 "GET /favicon.ico HTTP/1.1" 404 2365
+INFO 2020-05-24 21:35:23,790 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:35:23,844 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:35:23,844 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:35:23,858 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:35:23,860 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:35:23,867 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:35:23,871 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:35:23,878 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:35:23,882 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:35:23,927 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+WARNING 2020-05-24 21:35:26,035 "GET /accounts/login/?next=/swagger/ HTTP/1.1" 404 2526
+INFO 2020-05-24 21:35:28,477 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:35:28,533 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:35:28,533 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:35:28,536 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:35:28,537 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:35:28,537 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:35:28,540 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:35:28,547 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:35:28,547 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:35:28,574 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:35:28,583 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:35:28,591 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:35:28,600 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:35:28,610 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:35:28,632 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+INFO 2020-05-24 21:40:25,475 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:40:25,971 "GET /api/short/ HTTP/1.1" 200 353
+WARNING 2020-05-24 21:40:25,978 "GET /favicon.ico HTTP/1.1" 404 2499
+WARNING 2020-05-24 21:40:35,127 "GET /docs/swagger/ HTTP/1.1" 404 2505
+INFO 2020-05-24 21:40:40,631 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:40:40,673 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:40:40,674 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:40:40,687 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:40:40,687 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:40:40,702 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:40:40,702 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:40:40,714 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:40:40,716 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:40:40,729 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:40:40,739 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:40:40,749 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:40:40,774 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+WARNING 2020-05-24 21:41:34,489 "GET / HTTP/1.1" 404 2331
+WARNING 2020-05-24 21:41:34,776 "GET /favicon.ico HTTP/1.1" 404 2382
+INFO 2020-05-24 21:41:41,690 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:41:41,786 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2427
+WARNING 2020-05-24 21:41:41,792 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2508
+WARNING 2020-05-24 21:41:41,792 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2490
+WARNING 2020-05-24 21:41:41,809 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2541
+WARNING 2020-05-24 21:41:41,810 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2448
+WARNING 2020-05-24 21:41:41,810 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2433
+WARNING 2020-05-24 21:41:41,828 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2457
+WARNING 2020-05-24 21:41:41,830 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2454
+WARNING 2020-05-24 21:41:41,855 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2448
+WARNING 2020-05-24 21:41:41,868 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2457
+WARNING 2020-05-24 21:41:41,878 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2454
+WARNING 2020-05-24 21:41:41,938 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2499
+INFO 2020-05-24 21:41:58,362 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:41:58,436 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2278
+WARNING 2020-05-24 21:41:58,436 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2341
+WARNING 2020-05-24 21:41:58,449 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2359
+WARNING 2020-05-24 21:41:58,449 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2392
+WARNING 2020-05-24 21:41:58,459 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2284
+WARNING 2020-05-24 21:41:58,459 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2299
+WARNING 2020-05-24 21:41:58,473 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2308
+WARNING 2020-05-24 21:41:58,474 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2305
+WARNING 2020-05-24 21:41:58,502 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2350
+INFO 2020-05-24 21:43:16,696 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:43:17,203 "GET /api/short/ HTTP/1.1" 200 353
+WARNING 2020-05-24 21:43:17,212 "GET /favicon.ico HTTP/1.1" 404 2499
+INFO 2020-05-24 21:43:19,568 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:43:19,621 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:43:19,622 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:43:19,624 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:43:19,640 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:43:19,644 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:43:19,645 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:43:19,653 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:43:19,653 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:43:19,670 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:43:19,681 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:43:19,691 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:43:19,719 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+INFO 2020-05-24 21:46:04,746 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:46:05,021 "GET /api/short/ HTTP/1.1" 200 353
+WARNING 2020-05-24 21:46:05,028 "GET /favicon.ico HTTP/1.1" 404 2499
+INFO 2020-05-24 21:46:07,607 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:46:07,657 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:46:07,658 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:46:07,658 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:46:07,676 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:46:07,679 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:46:07,680 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:46:07,689 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:46:07,691 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:46:07,711 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:46:07,722 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:46:07,733 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:46:07,744 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:46:07,772 "GET /swagger/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 404 2616
+INFO 2020-05-24 21:46:08,941 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:46:09,014 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2607
+WARNING 2020-05-24 21:46:09,015 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:46:09,018 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2544
+WARNING 2020-05-24 21:46:09,020 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:46:09,021 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:46:09,027 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2625
+WARNING 2020-05-24 21:46:09,033 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:46:09,033 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+WARNING 2020-05-24 21:46:09,056 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2658
+WARNING 2020-05-24 21:46:09,067 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2550
+WARNING 2020-05-24 21:46:09,076 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2565
+WARNING 2020-05-24 21:46:09,088 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2574
+WARNING 2020-05-24 21:46:09,097 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2571
+INFO 2020-05-24 21:48:19,578 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:48:19,896 "GET /api/short/ HTTP/1.1" 200 353
+INFO 2020-05-24 21:48:24,038 "GET /swagger/ HTTP/1.1" 200 2145
+WARNING 2020-05-24 21:48:24,075 "GET /swagger/drf-yasg/style.css HTTP/1.1" 404 2726
+WARNING 2020-05-24 21:48:24,075 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 404 2807
+WARNING 2020-05-24 21:48:24,082 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 404 2789
+WARNING 2020-05-24 21:48:24,122 "GET /swagger/drf-yasg/insQ.min.js HTTP/1.1" 404 2732
+WARNING 2020-05-24 21:48:24,124 "GET /swagger/drf-yasg/immutable.min.js HTTP/1.1" 404 2747
+WARNING 2020-05-24 21:48:24,124 "GET /swagger/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 404 2840
+WARNING 2020-05-24 21:48:24,132 "GET /swagger/drf-yasg/swagger-ui-init.js HTTP/1.1" 404 2753
+WARNING 2020-05-24 21:48:24,132 "GET /swagger/drf-yasg/url-polyfill.min.js HTTP/1.1" 404 2756
+INFO 2020-05-24 21:49:24,588 "GET / HTTP/1.1" 200 5037
+INFO 2020-05-24 21:49:25,045 "GET /api/short/ HTTP/1.1" 200 353
+WARNING 2020-05-24 21:49:25,066 "GET /favicon.ico HTTP/1.1" 404 2499
+INFO 2020-05-24 21:49:27,251 "GET /swagger/ HTTP/1.1" 200 2225
+INFO 2020-05-24 21:49:27,305 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2020-05-24 21:49:27,314 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 141820
+INFO 2020-05-24 21:49:27,325 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2020-05-24 21:49:27,327 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 295198
+INFO 2020-05-24 21:49:27,338 "GET /static/drf-yasg/url-polyfill.min.js HTTP/1.1" 200 6092
+INFO 2020-05-24 21:49:27,340 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2020-05-24 21:49:27,346 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14715
+INFO 2020-05-24 21:49:27,353 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 957138
+INFO 2020-05-24 21:49:27,621 "GET /swagger/?format=openapi HTTP/1.1" 200 1690
+INFO 2020-05-24 21:51:13,380 "GET /swagger/ HTTP/1.1" 200 2225
+INFO 2020-05-24 21:51:13,432 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,434 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,437 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,438 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,447 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,447 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,454 "GET /static/drf-yasg/url-polyfill.min.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,454 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2020-05-24 21:51:13,801 "GET /swagger/?format=openapi HTTP/1.1" 200 1785
+INFO 2020-05-24 21:51:13,807 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2020-05-24 21:51:24,929 "GET /api/short/ HTTP/1.1" 200 353
+INFO 2020-05-24 21:54:12,005 "GET /swagger/ HTTP/1.1" 200 2225
+INFO 2020-05-24 21:54:12,038 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2020-05-24 21:54:12,051 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 141820
+INFO 2020-05-24 21:54:12,062 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 295198
+INFO 2020-05-24 21:54:12,068 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2020-05-24 21:54:12,074 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2020-05-24 21:54:12,083 "GET /static/drf-yasg/url-polyfill.min.js HTTP/1.1" 200 6092
+INFO 2020-05-24 21:54:12,085 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 957138
+INFO 2020-05-24 21:54:12,088 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14715
+INFO 2020-05-24 21:54:12,337 "GET /swagger/?format=openapi HTTP/1.1" 200 2344
+INFO 2020-05-24 21:54:12,339 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+WARNING 2020-05-24 21:54:21,148 "GET / HTTP/1.1" 406 18
+INFO 2020-05-24 21:55:22,491 "GET /swagger/ HTTP/1.1" 200 2225
+INFO 2020-05-24 21:55:22,929 "GET /swagger/?format=openapi HTTP/1.1" 200 2344
+INFO 2020-05-24 21:55:22,931 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2020-05-24 21:57:07,399 "GET / HTTP/1.1" 200 5039
+ERROR 2020-05-24 21:57:07,969 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 21:57:07,972 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 21:57:07,979 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:57:18,813 New UrlAddress object UrlAddress object (41) is created
+INFO 2020-05-24 21:57:18,816 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 21:57:19,765 "GET / HTTP/1.1" 200 5039
+INFO 2020-05-24 21:57:19,841 "GET /api/short/ HTTP/1.1" 200 130
+INFO 2020-05-24 21:58:01,875 "GET / HTTP/1.1" 200 5041
+ERROR 2020-05-24 21:58:01,979 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 21:58:01,980 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 21:58:01,984 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:58:06,038 New UrlAddress object UrlAddress object (42) is created
+INFO 2020-05-24 21:58:06,039 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 21:58:07,138 "GET / HTTP/1.1" 200 5041
+INFO 2020-05-24 21:58:07,197 "GET /api/short/ HTTP/1.1" 200 130
+WARNING 2020-05-24 21:58:07,219 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:58:17,384 New UrlAddress object UrlAddress object (43) is created
+INFO 2020-05-24 21:58:17,385 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 21:58:18,293 "GET / HTTP/1.1" 200 5041
+WARNING 2020-05-24 21:58:18,403 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:58:18,406 "GET /api/short/ HTTP/1.1" 200 228
+INFO 2020-05-24 21:59:27,308 "GET / HTTP/1.1" 200 5086
+ERROR 2020-05-24 21:59:27,417 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 21:59:27,419 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 21:59:27,425 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:59:32,899 New UrlAddress object UrlAddress object (44) is created
+INFO 2020-05-24 21:59:32,902 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 21:59:34,266 "GET / HTTP/1.1" 200 5086
+WARNING 2020-05-24 21:59:34,385 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 21:59:34,388 "GET /api/short/ HTTP/1.1" 200 130
+INFO 2020-05-24 22:00:00,933 "GET / HTTP/1.1" 200 5086
+ERROR 2020-05-24 22:00:01,068 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:00:01,069 "GET /favicon.ico HTTP/1.1" 404 2496
+WARNING 2020-05-24 22:00:01,070 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:00:24,285 "GET / HTTP/1.1" 200 5117
+WARNING 2020-05-24 22:00:24,408 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:00:24,414 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:00:24,415 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:00:32,307 "GET / HTTP/1.1" 200 5117
+WARNING 2020-05-24 22:00:32,455 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:00:32,458 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:00:32,459 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:01:03,855 "GET / HTTP/1.1" 200 5111
+WARNING 2020-05-24 22:01:04,010 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:01:04,012 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:01:04,013 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:01:22,602 "GET / HTTP/1.1" 200 5086
+WARNING 2020-05-24 22:01:22,764 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:01:22,765 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:01:22,767 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:01:34,093 "GET / HTTP/1.1" 200 5110
+WARNING 2020-05-24 22:01:34,273 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:01:34,281 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:01:34,283 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:01:43,322 "GET / HTTP/1.1" 200 5135
+WARNING 2020-05-24 22:01:43,471 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:01:43,472 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:01:43,474 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:01:54,807 "GET / HTTP/1.1" 200 5135
+WARNING 2020-05-24 22:01:54,963 "GET /favicon.ico HTTP/1.1" 404 2496
+ERROR 2020-05-24 22:01:54,968 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:01:54,970 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:02:00,550 New UrlAddress object UrlAddress object (45) is created
+INFO 2020-05-24 22:02:00,553 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 22:02:01,348 "GET / HTTP/1.1" 200 5135
+WARNING 2020-05-24 22:02:01,518 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:02:01,520 "GET /api/short/ HTTP/1.1" 200 130
+INFO 2020-05-24 22:02:55,334 "GET / HTTP/1.1" 200 5104
+ERROR 2020-05-24 22:02:55,481 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:02:55,483 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 22:02:55,491 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:02:59,627 New UrlAddress object UrlAddress object (46) is created
+INFO 2020-05-24 22:02:59,631 "POST /api/short/ HTTP/1.1" 201 128
+INFO 2020-05-24 22:03:00,429 "GET / HTTP/1.1" 200 5104
+WARNING 2020-05-24 22:03:00,547 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:03:00,548 "GET /api/short/ HTTP/1.1" 200 130
+INFO 2020-05-24 22:03:29,640 New UrlAddress object UrlAddress object (47) is created
+INFO 2020-05-24 22:03:29,642 "POST /api/short/ HTTP/1.1" 201 83
+INFO 2020-05-24 22:04:00,152 "GET / HTTP/1.1" 200 5111
+INFO 2020-05-24 22:04:00,271 "GET /api/short/ HTTP/1.1" 200 183
+WARNING 2020-05-24 22:04:00,273 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:04:03,826 New UrlAddress object UrlAddress object (48) is created
+INFO 2020-05-24 22:04:03,829 "POST /api/short/ HTTP/1.1" 201 81
+INFO 2020-05-24 22:04:46,207 "GET / HTTP/1.1" 200 5106
+WARNING 2020-05-24 22:04:46,308 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:04:46,311 "GET /api/short/ HTTP/1.1" 200 234
+INFO 2020-05-24 22:04:48,904 New UrlAddress object UrlAddress object (49) is created
+INFO 2020-05-24 22:04:48,906 "POST /api/short/ HTTP/1.1" 201 77
+INFO 2020-05-24 22:05:08,305 "GET / HTTP/1.1" 200 5198
+WARNING 2020-05-24 22:05:08,432 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:05:08,440 "GET /api/short/ HTTP/1.1" 200 281
+INFO 2020-05-24 22:05:11,384 New UrlAddress object UrlAddress object (50) is created
+INFO 2020-05-24 22:05:11,389 "POST /api/short/ HTTP/1.1" 201 76
+INFO 2020-05-24 22:05:56,355 "GET / HTTP/1.1" 200 5150
+WARNING 2020-05-24 22:05:56,475 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:05:56,479 "GET /api/short/ HTTP/1.1" 200 327
+INFO 2020-05-24 22:06:00,013 New UrlAddress object UrlAddress object (51) is created
+INFO 2020-05-24 22:06:00,016 "POST /api/short/ HTTP/1.1" 201 79
+INFO 2020-05-24 22:06:01,900 "GET /JzY0AXLw HTTP/1.1" 301 0
+ERROR 2020-05-24 22:06:01,987 "GET /JzY0AXLw/ HTTP/1.1" 500 125089
+INFO 2020-05-24 22:06:03,699 "GET /api/short/ HTTP/1.1" 200 376
+INFO 2020-05-24 22:06:12,558 New UrlAddress object UrlAddress object (52) is created
+INFO 2020-05-24 22:06:12,560 "POST /api/short/ HTTP/1.1" 201 82
+INFO 2020-05-24 22:06:13,593 "GET /iVzAFdZY HTTP/1.1" 301 0
+ERROR 2020-05-24 22:06:13,667 "GET /iVzAFdZY/ HTTP/1.1" 500 125152
+INFO 2020-05-24 22:06:22,551 "GET /api/short/ HTTP/1.1" 200 428
+INFO 2020-05-24 22:06:31,345 "GET /4t8vqzZS HTTP/1.1" 301 0
+INFO 2020-05-24 22:06:31,377 "GET /4t8vqzZS/ HTTP/1.1" 302 0
+INFO 2020-05-24 22:07:04,819 "GET / HTTP/1.1" 200 5150
+ERROR 2020-05-24 22:07:07,227 Objects of class UrlAddress with user session "twjksru17htavm6jdm5cvukp27bz3406" are not found
+WARNING 2020-05-24 22:07:07,234 "GET /api/short/ HTTP/1.1" 404 54
+WARNING 2020-05-24 22:07:07,234 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:07:12,517 New UrlAddress object UrlAddress object (53) is created
+INFO 2020-05-24 22:07:12,521 "POST /api/short/ HTTP/1.1" 201 92
+INFO 2020-05-24 22:07:13,862 "GET /y4OnDJ_X HTTP/1.1" 301 0
+INFO 2020-05-24 22:07:13,904 "GET /y4OnDJ_X/ HTTP/1.1" 302 0
+INFO 2020-05-24 22:07:16,091 "GET /api/short/ HTTP/1.1" 200 94
+INFO 2020-05-24 22:09:54,771 "GET / HTTP/1.1" 200 6318
+INFO 2020-05-24 22:09:55,027 "GET /api/short/ HTTP/1.1" 200 94
+WARNING 2020-05-24 22:09:55,032 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:09:57,605 New UrlAddress object UrlAddress object (54) is created
+INFO 2020-05-24 22:09:57,608 "POST /api/short/ HTTP/1.1" 201 84
+INFO 2020-05-24 22:10:51,570 "GET / HTTP/1.1" 200 6378
+INFO 2020-05-24 22:10:51,775 "GET /api/short/ HTTP/1.1" 200 148
+INFO 2020-05-24 22:10:55,863 New UrlAddress object UrlAddress object (55) is created
+INFO 2020-05-24 22:10:55,864 "POST /api/short/ HTTP/1.1" 201 80
+INFO 2020-05-24 22:16:25,913 "GET / HTTP/1.1" 200 6360
+INFO 2020-05-24 22:16:26,050 "GET /api/short/ HTTP/1.1" 200 198
+WARNING 2020-05-24 22:16:26,063 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:17:23,983 "GET / HTTP/1.1" 200 5292
+WARNING 2020-05-24 22:17:24,107 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:17:24,113 "GET /api/short/ HTTP/1.1" 200 198
+INFO 2020-05-24 22:17:27,006 New UrlAddress object UrlAddress object (56) is created
+INFO 2020-05-24 22:17:27,010 "POST /api/short/ HTTP/1.1" 201 78
+INFO 2020-05-24 22:18:32,308 "GET / HTTP/1.1" 200 5336
+WARNING 2020-05-24 22:18:32,345 "GET /main.css HTTP/1.1" 404 2487
+WARNING 2020-05-24 22:18:32,447 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:18:32,448 "GET /api/short/ HTTP/1.1" 200 246
+WARNING 2020-05-24 22:18:34,143 "GET /main.css HTTP/1.1" 404 2487
+WARNING 2020-05-24 22:18:42,088 "GET /main.css HTTP/1.1" 404 2487
+INFO 2020-05-24 22:21:59,711 "GET / HTTP/1.1" 200 5377
+INFO 2020-05-24 22:21:59,843 "GET /api/short/ HTTP/1.1" 200 246
+WARNING 2020-05-24 22:21:59,848 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:22:11,232 "GET / HTTP/1.1" 200 5377
+ERROR 2020-05-24 22:22:11,334 Objects of class UrlAddress with user session "9bmafavb7zamo57ns5ikuryz07z3552n" are not found
+WARNING 2020-05-24 22:22:11,336 "GET /api/short/ HTTP/1.1" 404 54
+INFO 2020-05-24 22:29:49,985 "GET / HTTP/1.1" 200 5441
+WARNING 2020-05-24 22:29:50,847 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:29:50,850 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:30:05,553 "GET / HTTP/1.1" 200 5429
+INFO 2020-05-24 22:30:05,655 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:30:50,824 "GET / HTTP/1.1" 200 5429
+WARNING 2020-05-24 22:30:51,014 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:30:51,015 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:12,930 "GET / HTTP/1.1" 200 5438
+INFO 2020-05-24 22:31:13,075 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:30,897 "GET / HTTP/1.1" 200 5438
+INFO 2020-05-24 22:31:31,140 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:37,744 "GET / HTTP/1.1" 200 5437
+INFO 2020-05-24 22:31:37,935 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:38,918 "GET / HTTP/1.1" 200 5437
+WARNING 2020-05-24 22:31:39,054 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:31:39,058 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:47,463 "GET / HTTP/1.1" 200 5426
+WARNING 2020-05-24 22:31:47,630 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:31:47,631 "GET /api/short/ HTTP/1.1" 200 246
+INFO 2020-05-24 22:31:51,108 "GET / HTTP/1.1" 200 5425
+WARNING 2020-05-24 22:31:51,265 "GET /favicon.ico HTTP/1.1" 404 2496
+INFO 2020-05-24 22:31:51,267 "GET /api/short/ HTTP/1.1" 200 246
