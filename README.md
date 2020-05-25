@@ -33,6 +33,8 @@ Run `git clone https://github.com/alexfurmenkov/URL-Shortener.git`
     
     Run `python /code/manage.py migrate`
 
+4. Navigate to http://localhost:8000 to use the app or to http://localhost:8000/docs/ to see the docs.
+
 ### Terminal
 1. Set DOCKER = False in src/shortener/settings.py
 
@@ -50,5 +52,4 @@ Run `git clone https://github.com/alexfurmenkov/URL-Shortener.git`
 
 8. run `python src/manage.py runserver localhost:8000`
 
-
-## **Navigate to http://localhost:8000 to use the app or to http://localhost:8000/docs/ to see the docs.**
+9. Navigate to http://localhost:8000 to use the app or to http://localhost:8000/docs/ to see the docs.
