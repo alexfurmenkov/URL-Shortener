@@ -7,7 +7,7 @@ Run `git clone https://github.com/alexfurmenkov/URL-Shortener.git`
 ### Docker
 1. Run `docker-compose up` if building for the first time or `docker-compose up --build` to rebuild
 2. Wait.
-3. **Run migrations in the running "web" container**
+3. **Run migrations in the running "shortener_web_1" container**
 
     _Using PyCharm:_
    
@@ -25,7 +25,7 @@ Run `git clone https://github.com/alexfurmenkov/URL-Shortener.git`
     
     Run `docker ps`
     
-    Copy CONTAINER ID of shortener_web_1 image
+    Copy CONTAINER ID of shortener_web image
     
     Run `docker exec -it <CONTAINER ID> bash`
     
