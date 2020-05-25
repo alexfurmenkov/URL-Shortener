@@ -19,7 +19,7 @@ class RedisStorage(redis.StrictRedis):
             port=settings.REDIS_PORT,
         )
 
-    def save_url_list(self, url_list, session_key):
+    def save_url_list(self, url_list, session_key: str):
         """
         Saves given list of urls
         to Redis key "url_list_<session_key>"
@@ -29,7 +29,7 @@ class RedisStorage(redis.StrictRedis):
         for url in url_list:
             self.lpush(f'url_list_{session_key}', json.dumps(url))
 
-    def append_url_to_list(self, url, session_key):
+    def append_url_to_list(self, url, session_key: str):
         """
         Appends new url to Redis
         key "url_list_<session_key>"
@@ -38,7 +38,7 @@ class RedisStorage(redis.StrictRedis):
         """
         return self.lpush(f'url_list_{session_key}', json.dumps(url))
 
-    def remove_url_from_list(self, url, session_key):
+    def remove_url_from_list(self, url, session_key: str):
         """
         Removes URL from url list
         :param url: URL to remove from list
@@ -50,7 +50,7 @@ class RedisStorage(redis.StrictRedis):
             value=json.dumps(url)
         )
 
-    def get_url_list(self, session_key):
+    def get_url_list(self, session_key: str):
         """
         Returns list of all URLs of a current session key
         :param session_key: Session key

@@ -62,7 +62,7 @@ class UrlAddress(models.Model):
         return new_url
 
     @classmethod
-    def get_objects_by_user_session(cls, user_session):
+    def get_objects_by_user_session(cls, user_session: Session):
         """
         Gets UrlAddress objects by user session
         :param user_session: session key of current user
