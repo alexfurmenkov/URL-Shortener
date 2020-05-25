@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#original_url, #short_url {
+    width: 200px;
+    height: 25px;
+    margin-top: 7px;
+}
+
+#submit {
+    width: 150px;
+    height: 30px;
+}
+
+#urls-table {
+    margin: 40px auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 7px;
+}
+
+#form {
+    margin-bottom: 20px;
+}
