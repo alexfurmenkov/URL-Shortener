@@ -69,13 +69,22 @@ document.getElementById("submit").addEventListener('click', function (e) {
     let data = {
         original_url: form.original_url.value,
     };
-    if (form.short_url.value !== '') {
-        data.short_url = form.short_url.value
-    }
-    let json_data = JSON.stringify(data);
 
-    request.open('post', '/api/short/');
-    request.setRequestHeader('Content-Type', 'application/json');
-    request.setRequestHeader('X-CSRFToken', csrftoken);
-    request.send(json_data);
+    let expression = /[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)?/gi;
+    let regex = new RegExp(expression);
+    if (data.original_url.match(regex)) {
+         if (form.short_url.value !== '') {
+        data.short_url = form.short_url.value
+        }
+        let json_data = JSON.stringify(data);
+
+        request.open('post', '/api/short/');
+        request.setRequestHeader('Content-Type', 'application/json');
+        request.setRequestHeader('X-CSRFToken', csrftoken);
+        request.send(json_data);
+    }
+    else {
+        alert('Enter a valid URL Address');
+        form.original_url.value = ''
+    }
 });
